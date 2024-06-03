@@ -1,0 +1,4 @@
+dbt-{adapter} # https://docs.getdbt.com/docs/trusted-adapters
+pre-commit
+sqlfluff
+sqlfluff-templater-dbt
